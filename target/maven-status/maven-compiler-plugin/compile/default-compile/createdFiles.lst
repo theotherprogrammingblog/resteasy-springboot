@@ -1,0 +1,4 @@
+com\test\model\User.class
+com\test\model\Users.class
+com\test\service\UserService.class
+com\test\ApplicationConfig.class
